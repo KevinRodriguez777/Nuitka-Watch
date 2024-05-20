@@ -1,0 +1,33 @@
+❯ nuitka --standalone --run --debug JsonschemaUsing.py
+Nuitka-Options: Used command line options: --standalone --standalone --run --debug JsonschemaUsing.py
+Nuitka: Starting Python compilation with Nuitka '2.3rc5' on Python '3.12' commercial grade 'not installed'.
+Nuitka: Completed Python level compilation and optimization.
+Nuitka: Generating source code for C backend compiler.
+Nuitka-CodeGen: Missing C helper code variant, used fallback: C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\attr\_make.py:2206,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\attr\_make.py:2232,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\attr\_make.py:2333,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\attr\_make.py:2342,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\attr\_make.py:2361,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\attr\_make.py:2385,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\attr\_make.py:2398,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\attr\_make.py:2416,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\attr\_make.py:2445,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\attr\_make.py:2298 at BINARY_OPERATION_MOD_OBJECT_OBJECT_TUPLE
+Nuitka-CodeGen: Missing C helper code variant, used fallback: C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\charset_normalizer\api.py:283,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\charset_normalizer\cd.py:212 at BINARY_OPERATION_TRUEDIV_OBJECT_LONG_DIGIT
+Nuitka-CodeGen: Missing C helper code variant, used fallback: C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\urllib3\util\retry.py:299 at BINARY_OPERATION_POW_OBJECT_DIGIT_LONG
+Nuitka: Running data composer tool for optimal constant value handling.
+Nuitka: Running C compilation via Scons.
+Nuitka-Scons: Backend C compiler: cl (cl 14.3).
+Nuitka-Scons: Backend linking program with 150 files (no progress information available for this stage).
+Nuitka-Scons: Compiled 150 C files using clcache with 1 cache hits and 149 cache misses.
+Nuitka-Plugins:data-files: Included data file 'certifi\cacert.pem' due to package data for 'certifi'.
+Nuitka-Plugins:data-files: Included 20 data files due to package data directory 'schemas' for
+Nuitka-Plugins:data-files: 'jsonschema_specifications'.
+Nuitka: Keeping build directory 'JsonschemaUsing.build'.
+Nuitka: Successfully created 'JsonschemaUsing.dist\JsonschemaUsing.exe'.
+Nuitka: Launching 'JsonschemaUsing.dist\JsonschemaUsing.exe'.
+Assertion failed: Py_REFCNT(object) > 0, file C:\Users\NUITKA~1\Desktop\WATCHE~1\venv\Lib\SITE-P~1\nuitka\build\include\nuitka/compiled_frame.h, line 105
