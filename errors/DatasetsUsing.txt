@@ -1,0 +1,258 @@
+Administrator in Nuitka-Watch\cases\Datasets on  main [✘?] via 🐍 v3.12.3 (venv)
+❯ nuitka --standalone --run --debug DatasetsUsing.py
+Nuitka-Options: Used command line options: --standalone --standalone --run --debug DatasetsUsing.py
+Nuitka: Starting Python compilation with Nuitka '2.3rc5' on Python '3.12' commercial grade 'not installed'.
+Nuitka-Plugins:WARNING: anti-bloat: Undesirable import of 'numba' in 'pandas.core._numba.extensions' (at
+Nuitka-Plugins:WARNING: 'C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-Plugins:WARNING: sky\venv\Lib\site-packages\pandas\core\_numba\extensions.py:16') encountered. It may slow down
+Nuitka-Plugins:WARNING: compilation.
+Nuitka-Plugins:WARNING:     Complex topic! More information can be found at
+Nuitka-Plugins:WARNING: https://nuitka.net/info/unwanted-module.html
+Nuitka-Plugins:WARNING: anti-bloat: Undesirable import of 'numba' in 'pandas.core._numba.extensions' (at
+Nuitka-Plugins:WARNING: 'C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-Plugins:WARNING: sky\venv\Lib\site-packages\pandas\core\_numba\extensions.py:17') encountered. It may slow down
+Nuitka-Plugins:WARNING: compilation.
+Nuitka-Plugins:WARNING:     Complex topic! More information can be found at
+Nuitka-Plugins:WARNING: https://nuitka.net/info/unwanted-module.html
+Nuitka-Plugins:WARNING: anti-bloat: Undesirable import of 'numba' in 'pandas.core._numba.extensions' (at
+Nuitka-Plugins:WARNING: 'C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-Plugins:WARNING: sky\venv\Lib\site-packages\pandas\core\_numba\extensions.py:18') encountered. It may slow down
+Nuitka-Plugins:WARNING: compilation.
+Nuitka-Plugins:WARNING:     Complex topic! More information can be found at
+Nuitka-Plugins:WARNING: https://nuitka.net/info/unwanted-module.html
+Nuitka-Plugins:WARNING: anti-bloat: Undesirable import of 'numba' in 'pandas.core._numba.extensions' (at
+Nuitka-Plugins:WARNING: 'C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-Plugins:WARNING: sky\venv\Lib\site-packages\pandas\core\_numba\extensions.py:18') encountered. It may slow down
+Nuitka-Plugins:WARNING: compilation.
+Nuitka-Plugins:WARNING:     Complex topic! More information can be found at
+Nuitka-Plugins:WARNING: https://nuitka.net/info/unwanted-module.html
+Nuitka-Plugins:WARNING: anti-bloat: Undesirable import of 'numba' in 'pandas.core._numba.extensions' (at
+Nuitka-Plugins:WARNING: 'C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-Plugins:WARNING: sky\venv\Lib\site-packages\pandas\core\_numba\extensions.py:19') encountered. It may slow down
+Nuitka-Plugins:WARNING: compilation.
+Nuitka-Plugins:WARNING:     Complex topic! More information can be found at
+Nuitka-Plugins:WARNING: https://nuitka.net/info/unwanted-module.html
+Nuitka-Plugins:WARNING: anti-bloat: Undesirable import of 'numba' in 'pandas.core._numba.extensions' (at
+Nuitka-Plugins:WARNING: 'C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-Plugins:WARNING: sky\venv\Lib\site-packages\pandas\core\_numba\extensions.py:19') encountered. It may slow down
+Nuitka-Plugins:WARNING: compilation.
+Nuitka-Plugins:WARNING:     Complex topic! More information can be found at
+Nuitka-Plugins:WARNING: https://nuitka.net/info/unwanted-module.html
+Nuitka-Plugins:WARNING: anti-bloat: Undesirable import of 'numba' in 'pandas.core._numba.extensions' (at
+Nuitka-Plugins:WARNING: 'C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-Plugins:WARNING: sky\venv\Lib\site-packages\pandas\core\_numba\extensions.py:20') encountered. It may slow down
+Nuitka-Plugins:WARNING: compilation.
+Nuitka-Plugins:WARNING:     Complex topic! More information can be found at
+Nuitka-Plugins:WARNING: https://nuitka.net/info/unwanted-module.html
+Nuitka-Plugins:WARNING: anti-bloat: Undesirable import of 'numba' in 'pandas.core._numba.extensions' (at
+Nuitka-Plugins:WARNING: 'C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-Plugins:WARNING: sky\venv\Lib\site-packages\pandas\core\_numba\extensions.py:33') encountered. It may slow down
+Nuitka-Plugins:WARNING: compilation.
+Nuitka-Plugins:WARNING:     Complex topic! More information can be found at
+Nuitka-Plugins:WARNING: https://nuitka.net/info/unwanted-module.html
+Nuitka-Plugins:WARNING: anti-bloat: Undesirable import of 'numba' in 'pandas.core._numba.extensions' (at
+Nuitka-Plugins:WARNING: 'C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-Plugins:WARNING: sky\venv\Lib\site-packages\pandas\core\_numba\extensions.py:257') encountered. It may slow down
+Nuitka-Plugins:WARNING: compilation.
+Nuitka-Plugins:WARNING:     Complex topic! More information can be found at
+Nuitka-Plugins:WARNING: https://nuitka.net/info/unwanted-module.html
+Nuitka-Plugins:WARNING: options-nanny: Using module 'numba' (version 0.59.1) with incomplete support due to condition
+Nuitka-Plugins:WARNING: 'not use_numba and standalone': Numba is not yet fully working with Nuitka standalone, try to
+Nuitka-Plugins:WARNING: use '--noinclude-numba-mode=nofollow', but it may fail.
+Nuitka-Plugins:WARNING: options-nanny: Module has parameter: Numba JIT is disabled by default in standalone mode, make a
+Nuitka-Plugins:WARNING: choice explicit with '--module-parameter=numba-disable-jit=yes|no'
+Nuitka: Completed Python level compilation and optimization.
+Nuitka: Generating source code for C backend compiler.
+Nuitka-CodeGen: Missing C helper code variant, used fallback: C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\aiohttp\multipart.py:1007 at BINARY_OPERATION_DIVMOD_OBJECT_LONG_DIGIT
+Nuitka-CodeGen: Missing C helper code variant, used fallback: C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\aiohttp\web_log.py:211,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\attr\_make.py:2206,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\attr\_make.py:2232,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\attr\_make.py:2333,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\attr\_make.py:2342,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\attr\_make.py:2361,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\attr\_make.py:2385,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\attr\_make.py:2398,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\attr\_make.py:2416,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\attr\_make.py:2445,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\attr\_make.py:2298,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\jinja2\bccache.py:262,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\jinja2\bccache.py:323,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\multiprocess\shared_memory.py:304,C:\Users\NuitkaDevOps\Desktop\Watcher in
+Nuitka-CodeGen: the sky\venv\Lib\site-packages\multiprocess\shared_memory.py:463,C:\Users\NuitkaDevOps\Desktop\Watcher
+Nuitka-CodeGen: in the sky\venv\Lib\site-packages\multiprocess\sharedctypes.py:153,C:\Users\NuitkaDevOps\Desktop\Watcher
+Nuitka-CodeGen: in the sky\venv\Lib\site-packages\numba\core\caching.py:32,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\numba\core\ir.py:192,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\numba\core\typeinfer.py:1311,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\numpy\core\records.py:297,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\numpy\lib\npyio.py:1618,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\numpy\lib\npyio.py:1623,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\numpy\lib\npyio.py:2305,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\pandas\io\pytables.py:2279,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\pandas\io\pytables.py:3168,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\io\_harwell_boeing\hb.py:347,C:\Users\NuitkaDevOps\Desktop\Watcher in
+Nuitka-CodeGen: the sky\venv\Lib\site-packages\scipy\io\_harwell_boeing\hb.py:350,C:\Users\NuitkaDevOps\Desktop\Watcher
+Nuitka-CodeGen: in the sky\venv\Lib\site-packages\scipy\io\_mmio.py:890,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\io\_mmio.py:896,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\io\_mmio.py:934,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\linalg\_decomp.py:1390,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\tqdm\std.py:176 at BINARY_OPERATION_MOD_OBJECT_OBJECT_TUPLE
+Nuitka-CodeGen: Missing C helper code variant, used fallback: C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\charset_normalizer\api.py:283,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\charset_normalizer\cd.py:212,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\pandas\io\formats\string.py:168,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\pandas\io\stata.py:411,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\interpolate\_fitpack_impl.py:552,C:\Users\NuitkaDevOps\Desktop\Watcher
+Nuitka-CodeGen: in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\interpolate\_fitpack_impl.py:554,C:\Users\NuitkaDevOps\Desktop\Watcher
+Nuitka-CodeGen: in the sky\venv\Lib\site-packages\scipy\sparse\_bsr.py:587,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\stats\_stats_py.py:4813 at BINARY_OPERATION_TRUEDIV_OBJECT_LONG_DIGIT
+Nuitka-CodeGen: Missing C helper code variant, used fallback: C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\datasets\arrow_dataset.py:5815,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\datasets\dataset_dict.py:1863 at BINARY_OPERATION_SUB_NBOOL_OBJECT_LONG
+Nuitka-CodeGen: Missing C helper code variant, used fallback: C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\datasets\arrow_writer.py:662,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\datasets\arrow_writer.py:667,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\datasets\arrow_writer.py:668,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\datasets\builder.py:2222 at BINARY_OPERATION_RSHIFT_OBJECT_UNICODE_OBJECT
+Nuitka-CodeGen: Missing C helper code variant, used fallback: C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\dateutil\parser\isoparser.py:370,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\pandas\io\stata.py:3081,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\integrate\_quadrature.py:1272,C:\Users\NuitkaDevOps\Desktop\Watcher in
+Nuitka-CodeGen: the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\stats\_continuous_distns.py:10139,C:\Users\NuitkaDevOps\Desktop\Watcher
+Nuitka-CodeGen: in the sky\venv\Lib\site-packages\urllib3\util\retry.py:299 at BINARY_OPERATION_POW_OBJECT_DIGIT_LONG
+Nuitka-CodeGen: Missing C helper code variant, used fallback: C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\numba\core\utils.py:565,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\integrate\_quadrature.py:1381,C:\Users\NuitkaDevOps\Desktop\Watcher in
+Nuitka-CodeGen: the sky\venv\Lib\site-packages\yaml\constructor.py:260,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\yaml\constructor.py:289 at INPLACE_OPERATION_MULT_LONG_DIGIT
+Nuitka-CodeGen: Missing C helper code variant, used fallback: C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\numba\cpython\heapq.py:94,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\numba\cpython\heapq.py:128,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\numba\cpython\listobj.py:1037,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\numba\np\arraymath.py:4180,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\numpy\core\einsumfunc.py:568,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\numpy\polynomial\chebyshev.py:302,C:\Users\NuitkaDevOps\Desktop\Watcher in
+Nuitka-CodeGen: the sky\venv\Lib\site-packages\numpy\polynomial\chebyshev.py:333,C:\Users\NuitkaDevOps\Desktop\Watcher
+Nuitka-CodeGen: in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\pandas\core\dtypes\missing.py:788,C:\Users\NuitkaDevOps\Desktop\Watcher in
+Nuitka-CodeGen: the sky\venv\Lib\site-packages\pandas\core\tools\datetimes.py:187,C:\Users\NuitkaDevOps\Desktop\Watcher
+Nuitka-CodeGen: in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\pandas\core\window\rolling.py:1211,C:\Users\NuitkaDevOps\Desktop\Watcher in
+Nuitka-CodeGen: the sky\venv\Lib\site-packages\scipy\optimize\_slsqp_py.py:351,C:\Users\NuitkaDevOps\Desktop\Watcher in
+Nuitka-CodeGen: the sky\venv\Lib\site-packages\scipy\stats\_morestats.py:1996,C:\Users\NuitkaDevOps\Desktop\Watcher in
+Nuitka-CodeGen: the sky\venv\Lib\site-packages\scipy\stats\_morestats.py:2000 at
+Nuitka-CodeGen: BINARY_OPERATION_FLOORDIV_OBJECT_LONG_DIGIT
+Nuitka-CodeGen: Missing C helper code variant, used fallback: C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\numba\cpython\randomimpl.py:1207,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\integrate\_quadrature.py:1162 at INPLACE_OPERATION_LSHIFT_LONG_DIGIT
+Nuitka-CodeGen: Missing C helper code variant, used fallback: C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\numba\cuda\cudadrv\libs.py:52,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\pandas\core\frame.py:2758,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\pandas\core\frame.py:3442,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\pandas\core\generic.py:2434,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\pandas\core\generic.py:3106,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\pandas\core\generic.py:3803,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\pandas\io\common.py:306,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\pandas\io\common.py:550,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\pandas\io\common.py:664,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\pandas\io\formats\xml.py:46,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\pandas\io\json\_json.py:507,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\pandas\io\parsers\readers.py:876,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\pandas\io\parsers\readers.py:1267,C:\Users\NuitkaDevOps\Desktop\Watcher in
+Nuitka-CodeGen: the sky\venv\Lib\site-packages\pandas\io\pickle.py:35,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\pandas\io\pickle.py:116,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\pandas\io\pytables.py:3610,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\pandas\io\sas\sasreader.py:88,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\pandas\io\stata.py:159,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\pandas\io\stata.py:2252,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\pandas\io\xml.py:64,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\pandas\io\xml.py:866 at BINARY_OPERATION_MOD_OBJECT_OBJECT_UNICODE
+Nuitka-CodeGen: Missing C helper code variant, used fallback: C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\numba\cuda\simulator\kernelapi.py:442,C:\Users\NuitkaDevOps\Desktop\Watcher
+Nuitka-CodeGen: in the sky\venv\Lib\site-packages\pandas\_config\config.py:156,C:\Users\NuitkaDevOps\Desktop\Watcher in
+Nuitka-CodeGen: the sky\venv\Lib\site-packages\pandas\_config\config.py:472,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\sparse\linalg\_isolve\lsmr.py:455,C:\Users\NuitkaDevOps\Desktop\Watcher
+Nuitka-CodeGen: in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\sparse\linalg\_isolve\minres.py:347,C:\Users\NuitkaDevOps\Desktop\Watcher
+Nuitka-CodeGen: in the sky\venv\Lib\site-packages\scipy\sparse\linalg\_isolve\minres.py:365 at
+Nuitka-CodeGen: BINARY_OPERATION_MOD_OBJECT_LONG_DIGIT
+Nuitka-CodeGen: Missing C helper code variant, used fallback: C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\numpy\core\getlimits.py:197,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\constants\_constants.py:105,C:\Users\NuitkaDevOps\Desktop\Watcher in
+Nuitka-CodeGen: the sky\venv\Lib\site-packages\scipy\constants\_constants.py:106 at
+Nuitka-CodeGen: BINARY_OPERATION_POW_OBJECT_DIGIT_DIGIT
+Nuitka-CodeGen: Missing C helper code variant, used fallback: C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\numpy\lib\arraysetops.py:725 at RICH_COMPARE_GT_NBOOL_FLOAT_LONG
+Nuitka-CodeGen: Missing C helper code variant, used fallback: C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\numpy\lib\npyio.py:2286 at INPLACE_OPERATION_MOD_OBJECT_TUPLE
+Nuitka-CodeGen: Missing C helper code variant, used fallback: C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\pandas\plotting\_matplotlib\tools.py:130,C:\Users\NuitkaDevOps\Desktop\Watcher
+Nuitka-CodeGen: in the sky\venv\Lib\site-packages\scipy\stats\_hypotests.py:1679,C:\Users\NuitkaDevOps\Desktop\Watcher
+Nuitka-CodeGen: in the sky\venv\Lib\site-packages\scipy\stats\_hypotests.py:1679,C:\Users\NuitkaDevOps\Desktop\Watcher
+Nuitka-CodeGen: in the sky\venv\Lib\site-packages\scipy\stats\_morestats.py:2566,C:\Users\NuitkaDevOps\Desktop\Watcher
+Nuitka-CodeGen: in the sky\venv\Lib\site-packages\scipy\stats\_morestats.py:2567,C:\Users\NuitkaDevOps\Desktop\Watcher
+Nuitka-CodeGen: in the sky\venv\Lib\site-packages\scipy\stats\_morestats.py:2568,C:\Users\NuitkaDevOps\Desktop\Watcher
+Nuitka-CodeGen: in the sky\venv\Lib\site-packages\scipy\stats\_morestats.py:2809,C:\Users\NuitkaDevOps\Desktop\Watcher
+Nuitka-CodeGen: in the sky\venv\Lib\site-packages\scipy\stats\_morestats.py:2809,C:\Users\NuitkaDevOps\Desktop\Watcher
+Nuitka-CodeGen: in the sky\venv\Lib\site-packages\scipy\stats\_morestats.py:2817,C:\Users\NuitkaDevOps\Desktop\Watcher
+Nuitka-CodeGen: in the sky\venv\Lib\site-packages\scipy\stats\_morestats.py:2817,C:\Users\NuitkaDevOps\Desktop\Watcher
+Nuitka-CodeGen: in the sky\venv\Lib\site-packages\scipy\stats\_morestats.py:2819 at
+Nuitka-CodeGen: BINARY_OPERATION_POW_OBJECT_LONG_DIGIT
+Nuitka-CodeGen: Missing C helper code variant, used fallback: C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\psutil\__init__.py:1610,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\stats\_morestats.py:207,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\stats\_morestats.py:2253,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\stats\_morestats.py:2253,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\stats\_morestats.py:2260,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\stats\_morestats.py:2277,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\stats\_morestats.py:3061,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\stats\_stats_py.py:9377 at BINARY_OPERATION_TRUEDIV_OBJECT_CFLOAT_LONG
+Nuitka-CodeGen: Missing C helper code variant, used fallback: C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\linalg\_matfuncs.py:329 at INPLACE_OPERATION_MULT_OBJECT_LIST
+Nuitka-CodeGen: Missing C helper code variant, used fallback: C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\stats\_hypotests.py:596,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\stats\_stats_py.py:9644 at BINARY_OPERATION_TRUEDIV_OBJECT_DIGIT_LONG
+Nuitka-CodeGen: Missing C helper code variant, used fallback: C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\stats\_morestats.py:211,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\stats\_mstats_basic.py:2912,C:\Users\NuitkaDevOps\Desktop\Watcher in
+Nuitka-CodeGen: the sky\venv\Lib\site-packages\scipy\stats\_mstats_basic.py:2912,C:\Users\NuitkaDevOps\Desktop\Watcher
+Nuitka-CodeGen: in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\stats\_mstats_extras.py:478,C:\Users\NuitkaDevOps\Desktop\Watcher in
+Nuitka-CodeGen: the sky\venv\Lib\site-packages\scipy\stats\_stats_py.py:9153,C:\Users\NuitkaDevOps\Desktop\Watcher in
+Nuitka-CodeGen: the sky\venv\Lib\site-packages\scipy\stats\_stats_py.py:9154 at
+Nuitka-CodeGen: BINARY_OPERATION_TRUEDIV_OBJECT_LONG_CFLOAT
+Nuitka-CodeGen: Missing C helper code variant, used fallback: C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\stats\_morestats.py:2807,C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\stats\_morestats.py:2816 at BINARY_OPERATION_MOD_NBOOL_LONG_DIGIT
+Nuitka-CodeGen: Missing C helper code variant, used fallback: C:\Users\NuitkaDevOps\Desktop\Watcher in the
+Nuitka-CodeGen: sky\venv\Lib\site-packages\scipy\stats\_morestats.py:2808 at BINARY_OPERATION_POW_OBJECT_FLOAT_CFLOAT
+Nuitka: Running data composer tool for optimal constant value handling.
+Nuitka: Running C compilation via Scons.
+Nuitka-Scons: Backend C compiler: cl (cl 14.3).
+Nuitka-Scons: Backend linking program with 1646 files (no progress information available for this stage).
+Nuitka-Scons: Compiled 1646 C files using clcache with 0 cache hits and 1646 cache misses.
+Nuitka-Plugins:dll-files: Found 1 file DLLs from llvmlite.binding.ffi installation.
+Nuitka-Plugins:data-files: Included data file 'certifi\cacert.pem' due to package data for 'certifi'.
+Nuitka-Plugins:data-files: Included data file 'pandas\io\formats\templates\html.tpl' due to package data directory
+Nuitka-Plugins:data-files: 'templates' for 'pandas.io.formats'.
+Nuitka-Plugins:data-files: Included data file 'pandas\io\formats\templates\html_style.tpl' due to package data directory
+Nuitka-Plugins:data-files: 'templates' for 'pandas.io.formats'.
+Nuitka-Plugins:data-files: Included data file 'pandas\io\formats\templates\html_table.tpl' due to package data directory
+Nuitka-Plugins:data-files: 'templates' for 'pandas.io.formats'.
+Nuitka-Plugins:data-files: Included data file 'pandas\io\formats\templates\latex.tpl' due to package data directory
+Nuitka-Plugins:data-files: 'templates' for 'pandas.io.formats'.
+Nuitka-Plugins:data-files: Included data file 'pandas\io\formats\templates\latex_longtable.tpl' due to package data
+Nuitka-Plugins:data-files: directory 'templates' for 'pandas.io.formats'.
+Nuitka-Plugins:data-files: Included data file 'pandas\io\formats\templates\latex_table.tpl' due to package data
+Nuitka-Plugins:data-files: directory 'templates' for 'pandas.io.formats'.
+Nuitka-Plugins:data-files: Included data file 'pandas\io\formats\templates\string.tpl' due to package data directory
+Nuitka-Plugins:data-files: 'templates' for 'pandas.io.formats'.
+Nuitka-Plugins:data-files: Included 603 data files due to package data directory 'zoneinfo' for 'pytz'.
+Nuitka-Plugins:data-files: Included data file 'scipy\stats\_sobol_direction_numbers.npz' due to package data for
+Nuitka-Plugins:data-files: 'scipy'.
+Nuitka: Keeping build directory 'DatasetsUsing.build'.
+Nuitka: Successfully created 'DatasetsUsing.dist\DatasetsUsing.exe'.
+Nuitka: Launching 'DatasetsUsing.dist\DatasetsUsing.exe'.
